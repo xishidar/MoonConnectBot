@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 import os
 
-TOKEN = os.getenv("TOKEN")
+TOKEN = os.getenv("8910210299:AAG0gmaewKaQ-sm4UU__uSaccWH3eIg-25I")
 
 WELCOME_TEXT = """
 👋 Приветствую вас!
